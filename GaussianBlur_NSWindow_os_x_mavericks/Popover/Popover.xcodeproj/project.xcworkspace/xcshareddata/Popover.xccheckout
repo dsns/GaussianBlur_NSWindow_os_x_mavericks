@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3C2BA84A-2C65-4D52-8BAC-9A25515ED594</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Popover</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2129BF45-82AB-43ED-B974-3D7783D67521</key>
+		<string>https://github.com/dsns/GaussianBlur-NSWindow-in-os-x-mavericks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Popover/Popover.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2129BF45-82AB-43ED-B974-3D7783D67521</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dsns/GaussianBlur-NSWindow-in-os-x-mavericks.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2129BF45-82AB-43ED-B974-3D7783D67521</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2129BF45-82AB-43ED-B974-3D7783D67521</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GaussianBlur_NSWindow_os_x_mavericks</string>
+		</dict>
+	</array>
+</dict>
+</plist>
